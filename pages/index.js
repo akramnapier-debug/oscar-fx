@@ -1,0 +1,27 @@
+/pages
+  index.js
+  stocks.js
+  forex.js
+  crypto.js
+  commodities.js
+  bonds.js
+  realestate.js
+  news.js
+  contact.js
+  /api
+    /stocks.js
+    /forex.js
+    /crypto.js
+    /commodities.js
+    /bonds.js
+    /realestate.js
+    /news.js
+/public
+  favicon.ico
+/styles
+  globals.css
+next.config.js
+tailwind.config.js
+jsconfig.json
+package.json
+.env.example
